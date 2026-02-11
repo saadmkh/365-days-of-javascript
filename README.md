@@ -69,7 +69,8 @@ Each folder contains:
 | Day | Status |
 |----|-------|
 | Day 01 | ✅ |
-| Day 02 | ⏳ |
+| Day 02 | ✅ |
+| Day 03 | ⏳ |
 
 ---
 
