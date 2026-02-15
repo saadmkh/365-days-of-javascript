@@ -19,8 +19,6 @@ day-01/
 └── task.js
 
 day-02/
-└── index.html
-└── style.css
 └── script.js
 
 day-03/
