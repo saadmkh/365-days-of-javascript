@@ -1,6 +1,6 @@
 # 🚀 Daily JavaScript Challenges
 
-Solving **at least one JavaScript task every day** to build consistency, improve problem-solving skills, and master JavaScript from fundamentals to advanced concepts.
+Solving **at least one JavaScript task every day** to build consistency, improve problem-solving skills and master JavaScript from fundamentals to advanced concepts.
 
 No zero days. Just progress.
 
