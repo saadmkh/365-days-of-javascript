@@ -72,7 +72,9 @@ Each folder contains:
 | Day 04 | ✅ |
 | Day 05 | ✅ |
 | Day 06 | ✅ |
-| Day 07 | ⏳ |
+| Day 07 | ❌ |
+| Day 08 | ✅ |
+| Day 09 | ⏳ |
 
 ---
 
