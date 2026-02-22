@@ -64,9 +64,9 @@ Each folder contains:
 ---
 
 ## 📅 Progress Tracker
-| Day | Status |
-|----|-------|
-| Day 01 | ✅ |
+| Day | Status |  | Day | Status |
+|----|-------|    |----|-------|
+| Day 01 | ✅ |   | Day 13 | ⏳ |
 | Day 02 | ✅ |
 | Day 03 | ✅ |
 | Day 04 | ✅ |
@@ -78,7 +78,7 @@ Each folder contains:
 | Day 10 | ❌ |
 | Day 11 | ✅ |
 | Day 12 | ✅ |
-| Day 13 | ⏳ |
+
 
 
 ---
