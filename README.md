@@ -87,7 +87,8 @@ Each folder contains:
 | Day 19 | ✅ |
 | Day 20 | ✅ |
 | Day 21 | ✅ |
-| Day 22 | ⏳ |
+| Day 22 | ✅ |
+| Day 23 | ⏳ |
 
 
 
